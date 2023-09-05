@@ -1,3 +1,4 @@
+![Logo](https://github.com/yashnikam18yn/yashnikam18yn/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Yash Nikam</h1>
 <h3 align="center">🤝Aspiring Software Developer</h3>
 
